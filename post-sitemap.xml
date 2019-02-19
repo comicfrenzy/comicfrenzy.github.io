@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://comicfrenzy.github.io</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/1001-questions-to-help-flesh-out-your-character/</loc>
+        <lastmod>2012-06-01T15:54:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/art/abstract-art-painting-expressions-in-mixed-media/</loc>
+        <lastmod>2012-06-01T15:51:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/art/acrylic-illuminations-reflective-luminous-acrylic-painting-techniques/</loc>
+        <lastmod>2012-06-01T15:50:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/art/acrylic-solutions-exploring-mixed-media-layer-by-layer/</loc>
+        <lastmod>2012-06-01T15:49:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/art/art-journal-courage-fearless-mixed-media-techniques-for-journaling-bravely/</loc>
+        <lastmod>2012-06-01T15:48:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/becoming-a-writer/</loc>
+        <lastmod>2012-06-01T15:47:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/blogging-best-little-darn-guide-to-starting-a-profitable-blog-blogging-for-profit-book-1/</loc>
+        <lastmod>2012-06-01T15:46:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/economics/business-law-6th-edition-business-review-series/</loc>
+        <lastmod>2012-06-01T15:45:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/economics/capital-in-twenty-first-century/</loc>
+        <lastmod>2012-06-01T15:44:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/comic/comic-book-marketing-101/</loc>
+        <lastmod>2012-06-01T15:43:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/art/creating-abstract-art-ideas-inspirations-for-passionate-art-making/</loc>
+        <lastmod>2012-06-01T15:41:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/art/creativegirl-mixed-media-techniques-for-an-artful-life/</loc>
+        <lastmod>2012-06-01T15:40:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/other/delete/</loc>
+        <lastmod>2012-06-01T15:39:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/art/digital-painting-with-krita-2-9-learn-all-of-tools-to-create-your-next-masterpiece/</loc>
+        <lastmod>2012-06-01T15:38:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/economics/economics-ethics/</loc>
+        <lastmod>2012-06-01T15:37:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/comic/economics-of-digital-comics/</loc>
+        <lastmod>2012-06-01T15:36:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/elements-of-fiction-writing-conflict-suspense/</loc>
+        <lastmod>2012-06-01T15:35:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/gtd/essential-time-hacks-turn-24-hours-into-48/</loc>
+        <lastmod>2012-06-01T15:34:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/fiction-attack-insider-secrets-for-writing-selling-your-novels-stories-for-self-published-traditional-authors/</loc>
+        <lastmod>2012-06-01T15:33:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/other/find-your-passion-25-questions-you-must-ask-yourself/</loc>
+        <lastmod>2012-06-01T15:32:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/comic/foundations-in-comic-book-art-scad-creative-essentials-fundamental-tools-techniques-for-sequential-artists/</loc>
+        <lastmod>2012-06-01T15:31:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/four-seasons-of-creative-writing-1-000-prompts-to-stop-writers-block-story-prompts-for-journaling-blogging-beating-writers-block/</loc>
+        <lastmod>2012-06-01T15:30:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/how-to-make-a-living-as-a-writer/</loc>
+        <lastmod>2012-06-01T15:29:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/comic/how-to-self-publish-comics-not-just-create-them/</loc>
+        <lastmod>2012-06-01T15:28:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/how-to-write-dazzling-dialogue-fastest-way-to-improve-any-manuscript/</loc>
+        <lastmod>2012-06-01T15:27:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/translation/introducing-translation-studies-theories-applications/</loc>
+        <lastmod>2012-06-01T15:26:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/other/justice/</loc>
+        <lastmod>2012-06-01T15:25:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/comic/make-comics-like-pros-inside-scoop-on-how-to-write-draw-sell-your-comic-books-graphic-novels/</loc>
+        <lastmod>2012-06-01T15:24:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/art/no-excuses-watercolor-painting-techniques-for-sketching-journaling/</loc>
+        <lastmod>2012-06-01T15:23:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/other/not-nice-stop-people-pleasing-staying-silent-feeling-guilty-start-speaking-up-saying-no-asking-boldly-unapologetically-being-yourself/</loc>
+        <lastmod>2012-06-01T15:22:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/artbook/pixar-storytelling-rules-for-effective-storytelling-based-on-pixar%E2%80%99s-greatest-films/</loc>
+        <lastmod>2012-06-01T15:21:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/coding/pro-git/</loc>
+        <lastmod>2012-06-01T15:20:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/other/reinvent-yourself/</loc>
+        <lastmod>2012-06-01T15:19:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/revision-self-editing/</loc>
+        <lastmod>2012-06-01T15:18:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/secrets-of-successful-writers/</loc>
+        <lastmod>2012-06-01T15:17:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/comic/see-what-i-mean/</loc>
+        <lastmod>2012-06-01T15:16:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/comic/short-notes-on-long-comics-10-great-examples-of-story-structure-in-graphic-novels/</loc>
+        <lastmod>2012-06-01T15:15:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/other/simple-steps-to-photographic-memory-even-average-joe-can-do-it-now/</loc>
+        <lastmod>2012-06-01T15:14:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/comic/so-you-want-to-be-a-comic-book-artist/</loc>
+        <lastmod>2012-06-01T15:13:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/super-structure-key-to-unleashing-power-of-story/</loc>
+        <lastmod>2012-06-01T15:12:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/art/surface-treatment-workshop-explore-45-mixed-media-techniques/</loc>
+        <lastmod>2012-06-01T15:11:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/artbook/art-of-brave/</loc>
+        <lastmod>2012-06-01T15:10:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/comic/art-of-comic-book-writing-definitive-guide-to-outlining-scripting-pitching-your-sequential-art-stories/</loc>
+        <lastmod>2012-06-01T15:09:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/artbook/art-of-pixar-25th-anniversary-complete-color-scripts-select-art-from-25-years-of-animation/</loc>
+        <lastmod>2012-06-01T15:08:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/artbook/art-of-zootopia/</loc>
+        <lastmod>2012-06-01T15:07:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/other/author-training-manual-develop-marketable-ideas-craft-books-that-sell-become-author-publishers-want-self-publish-effectively/</loc>
+        <lastmod>2012-06-01T15:06:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/author-training-manual-develop-marketable-ideas-craft-books-that-sell-become-author-publishers-want-self-publish-effectively/</loc>
+        <lastmod>2012-06-01T15:05:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/body-thesaurus-a-fiction-writers-sourcebook-of-words-phrases-to-describe-characters/</loc>
+        <lastmod>2012-06-01T15:04:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/comic/complete-guide-to-self-publishing-comics-how-to-create-sell-comic-books-manga-webcomics/</loc>
+        <lastmod>2012-06-01T15:03:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/comic/dc-comics-guide-to-digitally-drawing-comics/</loc>
+        <lastmod>2012-06-01T15:02:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/dialogue-thesaurus-a-fiction-writers-sourcebook-of-dialogue-tags-phrases/</loc>
+        <lastmod>2012-06-01T15:01:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/other/joy-of-imperfection-a-stress-free-guide-to-silencing-your-inner-critic-conquering-perfectionism-becoming-best-version-of-yourself/</loc>
+        <lastmod>2012-06-01T14:58:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/methodology/manual-a-guide-to-ultimate-study-method-concentration-super-memory-speed-reading-note-taking-usm-rapid-mental-arithmetic-second-edition/</loc>
+        <lastmod>2012-06-01T14:57:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/methodology/procrastination-cure-21-proven-tactics-for-conquering-your-inner-procrastinator-mastering-your-time-boosting-your-productivity/</loc>
+        <lastmod>2012-06-01T14:55:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/other/self-discipline-blueprint-a-simple-guide-to-beat-procrastination-achieve-your-goals-get-life-you-want/</loc>
+        <lastmod>2012-06-01T14:53:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/other/signal-noise/</loc>
+        <lastmod>2012-06-01T14:52:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/other/solution-to-social-anxiety-break-free-from-shyness-that-holds-you-back/</loc>
+        <lastmod>2012-06-01T14:51:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/gtd/to-do-list-formula-a-stress-free-guide-to-creating-to-do-lists-that-work/</loc>
+        <lastmod>2012-06-01T14:49:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/comic/words-for-pictures-art-business-of-writing-comics-graphic-novels/</loc>
+        <lastmod>2012-06-01T14:48:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/world-building-to-extreme-learn-how-to-build-your-fictional-world-how-much-of-my-world-do-i-build-sins-of-worldbuilding-world-building-101-fiction-writers-united/</loc>
+        <lastmod>2012-06-01T14:47:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/write-your-novel-from-middle-a-new-approach-for-plotters-pantsers-everyone-in-between/</loc>
+        <lastmod>2012-06-01T14:46:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/writing-fiction-for-all-youre-worth-strategies-techniques-for-taking-your-fiction-to-next-level/</loc>
+        <lastmod>2012-06-01T14:45:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://comicfrenzy.github.io/post/writing/writing-love-scenes-professional-techniques-for-fiction-authors-writers-craft-book-27/</loc>
+        <lastmod>2012-06-01T14:44:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+</urlset>
+<!-- XML Sitemap generated by Hexo SEO Friendly Sitemap Generator -->
